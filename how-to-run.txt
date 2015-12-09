@@ -1,0 +1,8 @@
+Assuming MySQL installed with user=root and password=root
+If you using Windows. Using cmd  go to folder where this file situated
+login to mysql -> mysql -uroot -proot
+run DataBase.sql -> source DataBase.sql (creating database and new user with login=vladbondar password=password)
+Now exit cmd
+Copy VladApp.war to Tomcat\webapps\
+run Tomcat from Tomcat\bin\Tomcat7.exe 
+Launch application using browser link (http://localhost:8080/VladApp/index.jsp)

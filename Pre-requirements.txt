@@ -1,0 +1,7 @@
+MySQL version 5.6.26	
+Tomcat 7.0
+
+---------------
+
+.war was made with Apache-maven-3.3.3
+IDE used IntelliJ Idea 14.1.5
