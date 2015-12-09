@@ -1,0 +1,21 @@
+<Context>
+
+    <Resource name="jdbc/testvlad"
+
+              auth="Container"
+
+              type="javax.sql.DataSource"
+
+              username="vladbondar"
+
+              password="password"
+
+              driverClassName="com.mysql.jdbc.Driver"
+
+              url="jdbc:mysql:/localhost:3306/VladApp"
+
+              maxActive="15"
+
+              maxIdle="3"/>
+
+</Context>
